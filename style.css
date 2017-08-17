@@ -1,0 +1,142 @@
+#wrapper{
+    background: rgb(238, 238, 238);
+    height: 510px;
+    width: 908px;
+    padding-right: 20px;
+}
+.row{
+    height: 42px;
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 2px;
+}
+.column{
+    display: table-cell;
+    background-color: rgb(238, 238, 238);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid rgb(238, 238, 238);
+}
+.column1{
+    display: table-cell;
+    background-color: rgb(238, 238, 238);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid rgb(238, 238, 238);
+    margin-right: 12px;
+}
+.grey{
+    display: table-cell;
+    background-color: rgb(238, 238, 238);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid rgb(238, 238, 238);
+    color: red;
+    text-align: center;
+}
+.grey1{
+    display: table-cell;
+    background-color: rgb(238, 238, 238);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid rgb(238, 238, 238);
+    margin-right: 12px;
+    text-align: center;
+}
+.row2{
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 2px;
+    text-align: center;
+}
+.name{
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgb(25, 19, 182);
+}
+.weight{
+    font-size: 8pt;
+    color: black;
+}
+.blue{
+    display: table-cell;
+    background-color: rgb(104, 155, 255);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid black;
+}
+.red{
+    display: table-cell;
+    background-color: rgb(253, 154, 152);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid black;
+}
+.yellow{
+    display: table-cell;
+    background-color: rgb(254, 203, 0);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid black;
+}
+.row3{
+    display: table;
+    width: 814px;
+    table-layout: fixed;
+    border-spacing: 2px;
+}
+.green{
+    background-color: rgb(31, 202, 33);
+    display: table-cell;
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid black;
+    text-align: center;
+}
+.grey2{
+    background-color: rgb(238, 238, 238);
+    display: table-cell;
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    /* border: 1px solid black; */
+    color: red;
+}
+.greyborder{
+    background-color: rgb(238, 238, 238);
+    display: table-cell;
+    font-size: 8pt;
+    width: 10px;
+    height: 42px;
+    /* border: 1px solid black; */
+    color: red;
+}
+.grey3{
+    display: table-cell;
+    background-color: rgb(238, 238, 238);
+    font-size: 8pt;
+    width: 42px;
+    height: 42px;
+    border: 1px solid rgb(238, 238, 238);
+    color: red;
+    text-align: right;
+}
+.greyborder1{
+    background-color: rgb(238, 238, 238);
+    display: table-cell;
+    font-size: 8pt;
+    width: 14px;
+    height: 42px;
+    /* border: 1px solid black; */
+    color: red;
+}
